@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formatters on Web Tool Kit</title>
+    <link>https://www.devkuma.com/webtoolkit/en/tool/formatter/</link>
+    <description>Recent content in Formatters on Web Tool Kit</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.devkuma.com/webtoolkit/en/tool/formatter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JSON Formatter</title>
+      <link>https://www.devkuma.com/webtoolkit/en/tool/formatter/json/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devkuma.com/webtoolkit/en/tool/formatter/json/</guid>
+      <description> Your Value {} Format Clear Results </description>
+    </item>
+    
+    <item>
+      <title>XML Formatter</title>
+      <link>https://www.devkuma.com/webtoolkit/en/tool/formatter/xml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devkuma.com/webtoolkit/en/tool/formatter/xml/</guid>
+      <description> Your Value Format Clear Results </description>
+    </item>
+    
+    <item>
+      <title>SQL Formatter</title>
+      <link>https://www.devkuma.com/webtoolkit/en/tool/formatter/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devkuma.com/webtoolkit/en/tool/formatter/sql/</guid>
+      <description> Your Value Format Clear Results </description>
+    </item>
+    
+    <item>
+      <title>CSS Formatter</title>
+      <link>https://www.devkuma.com/webtoolkit/en/tool/formatter/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devkuma.com/webtoolkit/en/tool/formatter/css/</guid>
+      <description> Your Value Format Clear Results </description>
+    </item>
+    
+  </channel>
+</rss>
