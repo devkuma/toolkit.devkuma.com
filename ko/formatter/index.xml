@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Formatters on Web Tool Kit</title>
+    <title>Formatters on Web Toolkit</title>
     <link>https://www.devkuma.com/webtoolkit/ko/formatter/</link>
-    <description>Recent content in Formatters on Web Tool Kit</description>
+    <description>Recent content in Formatters on Web Toolkit</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.devkuma.com/webtoolkit/ko/formatter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JSON Formatter</title>
