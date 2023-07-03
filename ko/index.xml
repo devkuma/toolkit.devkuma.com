@@ -7,110 +7,109 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.devkuma.com/webtoolkit/ko/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>URL Encoder / Decoder</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/url/coder/</link>
+      <link>https://www.devkuma.com/webtoolkit/ko/url/coder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/url/coder/</guid>
+      <guid>https://www.devkuma.com/webtoolkit/ko/url/coder/</guid>
       <description> Your Value Decoder Encoder Clear Results </description>
     </item>
     
     <item>
       <title>JSON Formatter</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/formatter/json/</link>
+      <link>https://www.devkuma.com/webtoolkit/ko/formatter/json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/formatter/json/</guid>
+      <guid>https://www.devkuma.com/webtoolkit/ko/formatter/json/</guid>
       <description> Your Value {} Format Clear Results </description>
     </item>
     
     <item>
-      <title>HASH - SHA</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/hash/sha/</link>
+      <title>SHA 알고리즘 Hash값 구하기</title>
+      <link>https://www.devkuma.com/webtoolkit/ko/hash/sha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/hash/sha/</guid>
+      <guid>https://www.devkuma.com/webtoolkit/ko/hash/sha/</guid>
       <description> Your Value SHA-1 SHA-256 SHA-512 Clear Results </description>
     </item>
     
     <item>
-      <title>Sum - 합하기</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/calculator/sum/</link>
+      <title>XML을 JSON으로 변환하기</title>
+      <link>https://www.devkuma.com/webtoolkit/ko/converter/xml2json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/calculator/sum/</guid>
-      <description> Your Value Calculate Clear Results </description>
-    </item>
-    
-    <item>
-      <title>XML to JSON Converter</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/converter/xml2json/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/converter/xml2json/</guid>
+      <guid>https://www.devkuma.com/webtoolkit/ko/converter/xml2json/</guid>
       <description> Your Value XML to JSON Clear Results </description>
     </item>
     
     <item>
-      <title>Average - 평균 구하기</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/calculator/average/</link>
+      <title>합산하기</title>
+      <link>https://www.devkuma.com/webtoolkit/ko/calculator/sum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/calculator/average/</guid>
-      <description>한국어
-Your Value Calculate Clear Results </description>
+      <guid>https://www.devkuma.com/webtoolkit/ko/calculator/sum/</guid>
+      <description> Your Value Calculate Clear Results </description>
     </item>
     
     <item>
-      <title>JSON to XML Converter</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/converter/json2xml/</link>
+      <title>JSON을 XML으로  변환하기</title>
+      <link>https://www.devkuma.com/webtoolkit/ko/converter/json2xml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/converter/json2xml/</guid>
+      <guid>https://www.devkuma.com/webtoolkit/ko/converter/json2xml/</guid>
       <description> Your Value JSON to XML Clear Results </description>
     </item>
     
     <item>
-      <title>HASH MD5</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/hash/md5/</link>
+      <title>MD5 알고리즘 HASH값 구하기</title>
+      <link>https://www.devkuma.com/webtoolkit/ko/hash/md5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/hash/md5/</guid>
+      <guid>https://www.devkuma.com/webtoolkit/ko/hash/md5/</guid>
       <description> Your Value MD5 Clear Results </description>
     </item>
     
     <item>
       <title>XML Formatter</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/formatter/xml/</link>
+      <link>https://www.devkuma.com/webtoolkit/ko/formatter/xml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/formatter/xml/</guid>
+      <guid>https://www.devkuma.com/webtoolkit/ko/formatter/xml/</guid>
       <description> Your Value Format Clear Results </description>
     </item>
     
     <item>
-      <title>Less to CSS Converter</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/converter/less2css/</link>
+      <title>평균 구하기</title>
+      <link>https://www.devkuma.com/webtoolkit/ko/calculator/average/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/converter/less2css/</guid>
+      <guid>https://www.devkuma.com/webtoolkit/ko/calculator/average/</guid>
+      <description> 입력값 Calculate Clear 결과 </description>
+    </item>
+    
+    <item>
+      <title>Less을 CSS으로  변환하기</title>
+      <link>https://www.devkuma.com/webtoolkit/ko/converter/less2css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devkuma.com/webtoolkit/ko/converter/less2css/</guid>
       <description> Your Value Less to CSS Clear Results </description>
     </item>
     
     <item>
       <title>SQL Formatter</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/formatter/sql/</link>
+      <link>https://www.devkuma.com/webtoolkit/ko/formatter/sql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/formatter/sql/</guid>
+      <guid>https://www.devkuma.com/webtoolkit/ko/formatter/sql/</guid>
       <description> Your Value Format Clear Results </description>
     </item>
     
     <item>
       <title>CSS Formatter</title>
-      <link>https://www.devkuma.com/webtoolkit/ko/tool/formatter/css/</link>
+      <link>https://www.devkuma.com/webtoolkit/ko/formatter/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/ko/tool/formatter/css/</guid>
+      <guid>https://www.devkuma.com/webtoolkit/ko/formatter/css/</guid>
       <description>한국어
 Your Value Format Clear Results </description>
     </item>
