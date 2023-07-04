@@ -107,8 +107,8 @@
   &lt;button data-equals class=&#34;radius-bottom-right&#34;&gt;=&lt;/button&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;AC: All Clear&lt;/li&gt;
-&lt;li&gt;DEL: Delete. Delete one character at a time.&lt;/li&gt;
+&lt;li&gt;AC: All Clear. / &lt;code&gt;ESC&lt;/code&gt; Key /&lt;/li&gt;
+&lt;li&gt;DEL: Delete. / &lt;code&gt;Backspace&lt;/code&gt; key / Delete one character at a time.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;script src=&#34;https://www.devkuma.com/webtoolkit/webtoolkit/resources/js/calculator/basic.js&#34;&gt;&lt;/script&gt;
 

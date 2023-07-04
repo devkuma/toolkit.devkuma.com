@@ -107,8 +107,8 @@
   &lt;button data-equals class=&#34;radius-bottom-right&#34;&gt;=&lt;/button&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;AC: All Clear. ESC 키, 모두 지운다.&lt;/li&gt;
-&lt;li&gt;DEL: Delete. Delete 키, 한글자씩 지운다.&lt;/li&gt;
+&lt;li&gt;AC: All Clear. / &lt;code&gt;ESC&lt;/code&gt; 키 / 모두 지운다.&lt;/li&gt;
+&lt;li&gt;DEL: Delete. / &lt;code&gt;Backspace&lt;/code&gt; 키 / 한글자씩 지운다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;script src=&#34;https://www.devkuma.com/webtoolkit/webtoolkit/resources/js/calculator/basic.js&#34;&gt;&lt;/script&gt;
 
