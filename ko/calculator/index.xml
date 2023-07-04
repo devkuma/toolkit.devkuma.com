@@ -70,5 +70,51 @@
       
     </item>
     
+    <item>
+      <title>기본 계산기</title>
+      <link>https://www.devkuma.com/webtoolkit/ko/calculator/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devkuma.com/webtoolkit/ko/calculator/basic/</guid>
+      <description>
+        
+        
+        &lt;link href=&#34;https://www.devkuma.com/webtoolkit/webtoolkit/resources/css/calculator/basic.css&#34; rel=&#34;stylesheet&#34;&gt;
+&lt;p&gt;이 기본 계산기는 웹에서도 동작한다. 화면의 버튼에서도 동작하고, 키보드로도 동작한다.&lt;/p&gt;
+&lt;div class=&#34;calculator-grid&#34;&gt;
+  &lt;div class=&#34;output radius-top-left-right&#34;&gt;
+    &lt;div data-previous-operand class=&#34;previous-operand&#34;&gt;&lt;/div&gt;
+    &lt;div data-current-operand class=&#34;current-operand&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;button data-all-clear&gt;AC&lt;/button&gt;
+  &lt;button data-delete&gt;DEL&lt;/button&gt;
+  &lt;button data-change-sign&gt;+/-&lt;/button&gt;
+  &lt;button data-operation&gt;÷&lt;/button&gt;
+  &lt;button data-number&gt;1&lt;/button&gt;
+  &lt;button data-number&gt;2&lt;/button&gt;
+  &lt;button data-number&gt;3&lt;/button&gt;
+  &lt;button data-operation&gt;x&lt;/button&gt;
+  &lt;button data-number&gt;4&lt;/button&gt;
+  &lt;button data-number&gt;5&lt;/button&gt;
+  &lt;button data-number&gt;6&lt;/button&gt;
+  &lt;button data-operation&gt;-&lt;/button&gt;
+  &lt;button data-number&gt;7&lt;/button&gt;
+  &lt;button data-number&gt;8&lt;/button&gt;
+  &lt;button data-number&gt;9&lt;/button&gt;
+  &lt;button data-operation&gt;+&lt;/button&gt;
+  &lt;button data-number class=&#34;span-two radius-bottom-left&#34;&gt;0&lt;/button&gt;
+  &lt;button data-number&gt;.&lt;/button&gt;
+  &lt;button data-equals class=&#34;radius-bottom-right&#34;&gt;=&lt;/button&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;AC: All Clear. ESC 키, 모두 지운다.&lt;/li&gt;
+&lt;li&gt;DEL: Delete. Delete 키, 한글자씩 지운다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;script src=&#34;https://www.devkuma.com/webtoolkit/webtoolkit/resources/js/calculator/basic.js&#34;&gt;&lt;/script&gt;
+
+      </description>
+      
+    </item>
+    
   </channel>
 </rss>
