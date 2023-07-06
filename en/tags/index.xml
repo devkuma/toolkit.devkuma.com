@@ -1,16 +1,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Toolkit – Tags</title>
-    <link>https://tool.devkuma.com/en/tags/</link>
+    <link>https://toolkit.devkuma.com/en/tags/</link>
     <image>
-      <url>https://tool.devkuma.com/en/tags/logo/180x180.jpg</url>
+      <url>https://toolkit.devkuma.com/en/tags/logo/180x180.jpg</url>
       <title>Tags</title>
-      <link>https://tool.devkuma.com/en/tags/</link>
+      <link>https://toolkit.devkuma.com/en/tags/</link>
     </image>
     <description>Recent content in Tags on Web Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://tool.devkuma.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://toolkit.devkuma.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
       
