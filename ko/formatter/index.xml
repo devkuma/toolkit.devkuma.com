@@ -1,16 +1,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Toolkit – Formatters</title>
-    <link>https://webtoolkit.devkuma.com/ko/formatter/</link>
+    <link>https://tool.devkuma.com/ko/formatter/</link>
     <image>
-      <url>https://webtoolkit.devkuma.com/ko/formatter/logo/180x180.jpg</url>
+      <url>https://tool.devkuma.com/ko/formatter/logo/180x180.jpg</url>
       <title>Formatters</title>
-      <link>https://webtoolkit.devkuma.com/ko/formatter/</link>
+      <link>https://tool.devkuma.com/ko/formatter/</link>
     </image>
     <description>Recent content in Formatters on Web Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://webtoolkit.devkuma.com/ko/formatter/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://tool.devkuma.com/ko/formatter/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>JSON Formatter</title>
-      <link>https://webtoolkit.devkuma.com/ko/formatter/json/</link>
+      <link>https://tool.devkuma.com/ko/formatter/json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://webtoolkit.devkuma.com/ko/formatter/json/</guid>
+      <guid>https://tool.devkuma.com/ko/formatter/json/</guid>
       <description>
         
         
@@ -40,17 +40,17 @@
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/json2/20160511/json2.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://webtoolkit.devkuma.com/resources/js/formatter/json.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/formatter/json.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>
     
     <item>
       <title>XML Formatter</title>
-      <link>https://webtoolkit.devkuma.com/ko/formatter/xml/</link>
+      <link>https://tool.devkuma.com/ko/formatter/xml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://webtoolkit.devkuma.com/ko/formatter/xml/</guid>
+      <guid>https://tool.devkuma.com/ko/formatter/xml/</guid>
       <description>
         
         
@@ -67,17 +67,17 @@
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://webtoolkit.devkuma.com/resources/js/formatter/xml.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/formatter/xml.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>
     
     <item>
       <title>SQL Formatter</title>
-      <link>https://webtoolkit.devkuma.com/ko/formatter/sql/</link>
+      <link>https://tool.devkuma.com/ko/formatter/sql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://webtoolkit.devkuma.com/ko/formatter/sql/</guid>
+      <guid>https://tool.devkuma.com/ko/formatter/sql/</guid>
       <description>
         
         
@@ -94,17 +94,17 @@
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://webtoolkit.devkuma.com/resources/js/formatter/sql.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/formatter/sql.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>
     
     <item>
       <title>CSS Formatter</title>
-      <link>https://webtoolkit.devkuma.com/ko/formatter/css/</link>
+      <link>https://tool.devkuma.com/ko/formatter/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://webtoolkit.devkuma.com/ko/formatter/css/</guid>
+      <guid>https://tool.devkuma.com/ko/formatter/css/</guid>
       <description>
         
         
@@ -122,7 +122,7 @@
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://webtoolkit.devkuma.com/resources/js/formatter/css.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/formatter/css.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>

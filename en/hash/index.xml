@@ -1,16 +1,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Toolkit – HASH</title>
-    <link>https://webtoolkit.devkuma.com/en/hash/</link>
+    <link>https://tool.devkuma.com/en/hash/</link>
     <image>
-      <url>https://webtoolkit.devkuma.com/en/hash/logo/180x180.jpg</url>
+      <url>https://tool.devkuma.com/en/hash/logo/180x180.jpg</url>
       <title>HASH</title>
-      <link>https://webtoolkit.devkuma.com/en/hash/</link>
+      <link>https://tool.devkuma.com/en/hash/</link>
     </image>
     <description>Recent content in HASH on Web Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://webtoolkit.devkuma.com/en/hash/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://tool.devkuma.com/en/hash/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>HASH - SHA</title>
-      <link>https://webtoolkit.devkuma.com/en/hash/sha/</link>
+      <link>https://tool.devkuma.com/en/hash/sha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://webtoolkit.devkuma.com/en/hash/sha/</guid>
+      <guid>https://tool.devkuma.com/en/hash/sha/</guid>
       <description>
         
         
@@ -42,17 +42,17 @@
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jsSHA/2.3.1/sha.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://webtoolkit.devkuma.com/resources/js/hash/sha.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/hash/sha.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>
     
     <item>
       <title>HASH MD5</title>
-      <link>https://webtoolkit.devkuma.com/en/hash/md5/</link>
+      <link>https://tool.devkuma.com/en/hash/md5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://webtoolkit.devkuma.com/en/hash/md5/</guid>
+      <guid>https://tool.devkuma.com/en/hash/md5/</guid>
       <description>
         
         
@@ -69,7 +69,7 @@
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/blueimp-md5/2.10.0/js/md5.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://webtoolkit.devkuma.com/resources/js/hash/md5.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/hash/md5.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>

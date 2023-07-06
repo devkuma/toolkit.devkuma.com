@@ -1,16 +1,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Toolkit – Converters</title>
-    <link>https://webtoolkit.devkuma.com/en/converter/</link>
+    <link>https://tool.devkuma.com/en/converter/</link>
     <image>
-      <url>https://webtoolkit.devkuma.com/en/converter/logo/180x180.jpg</url>
+      <url>https://tool.devkuma.com/en/converter/logo/180x180.jpg</url>
       <title>Converters</title>
-      <link>https://webtoolkit.devkuma.com/en/converter/</link>
+      <link>https://tool.devkuma.com/en/converter/</link>
     </image>
     <description>Recent content in Converters on Web Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://webtoolkit.devkuma.com/en/converter/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://tool.devkuma.com/en/converter/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>XML to JSON Converter</title>
-      <link>https://webtoolkit.devkuma.com/en/converter/xml2json/</link>
+      <link>https://tool.devkuma.com/en/converter/xml2json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://webtoolkit.devkuma.com/en/converter/xml2json/</guid>
+      <guid>https://tool.devkuma.com/en/converter/xml2json/</guid>
       <description>
         
         
@@ -41,7 +41,7 @@
 &lt;/div&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/x2js/1.2.0/xml2json.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://webtoolkit.devkuma.com/resources/js/converter/xml2json.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/converter/xml2json.js&#34;&gt;&lt;/script&gt;
       </description>
       
       <category>Converters</category>
@@ -50,10 +50,10 @@
     
     <item>
       <title>JSON to XML Converter</title>
-      <link>https://webtoolkit.devkuma.com/en/converter/json2xml/</link>
+      <link>https://tool.devkuma.com/en/converter/json2xml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://webtoolkit.devkuma.com/en/converter/json2xml/</guid>
+      <guid>https://tool.devkuma.com/en/converter/json2xml/</guid>
       <description>
         
         
@@ -71,17 +71,17 @@
 &lt;/div&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/x2js/1.2.0/xml2json.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://webtoolkit.devkuma.com/resources/js/converter/json2xml.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/converter/json2xml.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>
     
     <item>
       <title>Less to CSS Converter</title>
-      <link>https://webtoolkit.devkuma.com/en/converter/less2css/</link>
+      <link>https://tool.devkuma.com/en/converter/less2css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://webtoolkit.devkuma.com/en/converter/less2css/</guid>
+      <guid>https://tool.devkuma.com/en/converter/less2css/</guid>
       <description>
         
         
@@ -99,7 +99,7 @@
 &lt;/div&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/ace/1.3.1/ace.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/less.js/1.7.5/less.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://webtoolkit.devkuma.com/resources/js/converter/less2css.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/converter/less2css.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>
