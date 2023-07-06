@@ -28,7 +28,7 @@
         
         
         &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
-    &lt;h5 clas=&#34;h3&#34;&gt;Your Value&lt;/h5&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;입력값&lt;/h5&gt;
     &lt;textarea id=&#34;value&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; placeholder=&#34;콤마를 구분하여 숫자를 입력하세요. Ex) 100,200,300&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
@@ -36,7 +36,7 @@
     &lt;button id=&#34;btnClear&#34; class=&#34;btn btn-primary&#34;&gt;Clear&lt;/button&gt;
 &lt;/div&gt;
 &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
-    &lt;h5 clas=&#34;h3&#34;&gt;Results&lt;/h5&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;결과&lt;/h5&gt;
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://toolkit.devkuma.com/resources/js/calculator/sum.js&#34;&gt;&lt;/script&gt;
