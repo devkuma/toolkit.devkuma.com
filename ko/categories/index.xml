@@ -1,16 +1,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Toolkit – Categories</title>
-    <link>https://tool.devkuma.com/ko/categories/</link>
+    <link>https://webtoolkit.devkuma.com/ko/categories/</link>
     <image>
-      <url>https://tool.devkuma.com/ko/categories/logo/180x180.jpg</url>
+      <url>https://webtoolkit.devkuma.com/ko/categories/logo/180x180.jpg</url>
       <title>Categories</title>
-      <link>https://tool.devkuma.com/ko/categories/</link>
+      <link>https://webtoolkit.devkuma.com/ko/categories/</link>
     </image>
     <description>Recent content in Categories on Web Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://tool.devkuma.com/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://webtoolkit.devkuma.com/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
       
