@@ -1,16 +1,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Toolkit – Calculator</title>
-    <link>https://www.devkuma.com/webtoolkit/en/calculator/</link>
+    <link>https://tool.devkuma.com/en/calculator/</link>
     <image>
-      <url>https://www.devkuma.com/webtoolkit/en/calculator/logo/180x180.jpg</url>
+      <url>https://tool.devkuma.com/en/calculator/logo/180x180.jpg</url>
       <title>Calculator</title>
-      <link>https://www.devkuma.com/webtoolkit/en/calculator/</link>
+      <link>https://tool.devkuma.com/en/calculator/</link>
     </image>
     <description>Recent content in Calculator on Web Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://www.devkuma.com/webtoolkit/en/calculator/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://tool.devkuma.com/en/calculator/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Sum</title>
-      <link>https://www.devkuma.com/webtoolkit/en/calculator/sum/</link>
+      <link>https://tool.devkuma.com/en/calculator/sum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/en/calculator/sum/</guid>
+      <guid>https://tool.devkuma.com/en/calculator/sum/</guid>
       <description>
         
         
@@ -39,17 +39,17 @@
     &lt;h5 clas=&#34;h3&#34;&gt;Results&lt;/h5&gt;
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
-&lt;script src=&#34;https://www.devkuma.com/webtoolkit/resources/js/calculator/sum.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/calculator/sum.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>
     
     <item>
       <title>Average</title>
-      <link>https://www.devkuma.com/webtoolkit/en/calculator/average/</link>
+      <link>https://tool.devkuma.com/en/calculator/average/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/en/calculator/average/</guid>
+      <guid>https://tool.devkuma.com/en/calculator/average/</guid>
       <description>
         
         
@@ -65,21 +65,21 @@
     &lt;h5 clas=&#34;h3&#34;&gt;Results&lt;/h5&gt;
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
-&lt;script src=&#34;https://www.devkuma.com/webtoolkit/resources/js/calculator/average.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/calculator/average.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>
     
     <item>
       <title>Basic Calculator</title>
-      <link>https://www.devkuma.com/webtoolkit/en/calculator/basic/</link>
+      <link>https://tool.devkuma.com/en/calculator/basic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.devkuma.com/webtoolkit/en/calculator/basic/</guid>
+      <guid>https://tool.devkuma.com/en/calculator/basic/</guid>
       <description>
         
         
-        &lt;link href=&#34;https://www.devkuma.com/webtoolkit/webtoolkit/resources/css/calculator/basic.css&#34; rel=&#34;stylesheet&#34;&gt;
+        &lt;link href=&#34;https://tool.devkuma.com/webtoolkit/resources/css/calculator/basic.css&#34; rel=&#34;stylesheet&#34;&gt;
 &lt;p&gt;This basic calculator also works on the web. The button on the screen works as well as the keyboard.&lt;/p&gt;
 &lt;div class=&#34;calculator-grid&#34;&gt;
   &lt;div class=&#34;output radius-top-left-right&#34;&gt;
@@ -110,7 +110,7 @@
 &lt;li&gt;AC: All Clear. / &lt;code&gt;ESC&lt;/code&gt; Key /&lt;/li&gt;
 &lt;li&gt;DEL: Delete. / &lt;code&gt;Backspace&lt;/code&gt; key / Delete one character at a time.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;script src=&#34;https://www.devkuma.com/webtoolkit/webtoolkit/resources/js/calculator/basic.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://tool.devkuma.com/resources/js/calculator/basic.js&#34;&gt;&lt;/script&gt;
 
       </description>
       
