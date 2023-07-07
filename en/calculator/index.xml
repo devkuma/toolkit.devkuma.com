@@ -19,32 +19,6 @@
     
     
     <item>
-      <title>Sum</title>
-      <link>https://toolkit.devkuma.com/en/calculator/sum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://toolkit.devkuma.com/en/calculator/sum/</guid>
-      <description>
-        
-        
-        &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
-    &lt;h5 clas=&#34;h3&#34;&gt;Your Value&lt;/h5&gt;
-    &lt;textarea id=&#34;value&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; placeholder=&#34;Enter numbers separated by commas. Ex) 100,200,300&#34;&gt;&lt;/textarea&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
-    &lt;button id=&#34;btnCalc&#34; class=&#34;btn btn-primary&#34;&gt;Calculate&lt;/button&gt;
-    &lt;button id=&#34;btnClear&#34; class=&#34;btn btn-primary&#34;&gt;Clear&lt;/button&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
-    &lt;h5 clas=&#34;h3&#34;&gt;Results&lt;/h5&gt;
-    &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
-&lt;/div&gt;
-&lt;script src=&#34;https://toolkit.devkuma.com/content/calculator/sum.js&#34;&gt;&lt;/script&gt;
-      </description>
-      
-    </item>
-    
-    <item>
       <title>Average</title>
       <link>https://toolkit.devkuma.com/en/calculator/average/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -68,6 +42,8 @@
 &lt;script src=&#34;https://toolkit.devkuma.com/content/calculator/average.js&#34;&gt;&lt;/script&gt;
       </description>
       
+      <category>Average</category>
+      
     </item>
     
     <item>
@@ -79,7 +55,7 @@
       <description>
         
         
-        &lt;link href=&#34;https://toolkit.devkuma.com/resources/css/calculator/basic.css&#34; rel=&#34;stylesheet&#34;&gt;
+        &lt;link href=&#34;https://toolkit.devkuma.com/content/calculator/basic.css&#34; rel=&#34;stylesheet&#34;&gt;
 &lt;p&gt;This basic calculator also works on the web. The button on the screen works as well as the keyboard.&lt;/p&gt;
 &lt;div class=&#34;calculator-grid&#34;&gt;
   &lt;div class=&#34;output radius-top-left-right&#34;&gt;
@@ -113,6 +89,34 @@
 &lt;script src=&#34;https://toolkit.devkuma.com/content/calculator/basic.js&#34;&gt;&lt;/script&gt;
 
       </description>
+      
+    </item>
+    
+    <item>
+      <title>Sum</title>
+      <link>https://toolkit.devkuma.com/en/calculator/sum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toolkit.devkuma.com/en/calculator/sum/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;Your Value&lt;/h5&gt;
+    &lt;textarea id=&#34;value&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; placeholder=&#34;Enter numbers separated by commas. Ex) 100,200,300&#34;&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;button id=&#34;btnCalc&#34; class=&#34;btn btn-primary&#34;&gt;Calculate&lt;/button&gt;
+    &lt;button id=&#34;btnClear&#34; class=&#34;btn btn-primary&#34;&gt;Clear&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;Results&lt;/h5&gt;
+    &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/calculator/sum.js&#34;&gt;&lt;/script&gt;
+      </description>
+      
+      <category>Sum</category>
       
     </item>
     

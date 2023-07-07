@@ -19,6 +19,35 @@
     
     
     <item>
+      <title>CSS Formatter</title>
+      <link>https://toolkit.devkuma.com/en/formatter/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toolkit.devkuma.com/en/formatter/css/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;Your Value&lt;/h5&gt;
+    &lt;textarea id=&#34;value&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34;&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;button name=&#34;btnGenerate&#34; class=&#34;btn btn-primary&#34;&gt;Format&lt;/button&gt;
+    &lt;button id=&#34;btnClear&#34; class=&#34;btn btn-primary&#34;&gt;Clear&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;Results &lt;span id=&#34;txtResultHash&#34;&gt;&lt;/span&gt;&lt;/h5&gt;
+    &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/formatter/css.js&#34;&gt;&lt;/script&gt;
+      </description>
+      
+      <category>CSS</category>
+      
+    </item>
+    
+    <item>
       <title>JSON Formatter</title>
       <link>https://toolkit.devkuma.com/en/formatter/json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -43,32 +72,7 @@
 &lt;script src=&#34;https://toolkit.devkuma.com/content/formatter/json.js&#34;&gt;&lt;/script&gt;
       </description>
       
-    </item>
-    
-    <item>
-      <title>XML Formatter</title>
-      <link>https://toolkit.devkuma.com/en/formatter/xml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://toolkit.devkuma.com/en/formatter/xml/</guid>
-      <description>
-        
-        
-        &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
-    &lt;h5 class=&#34;h3&#34;&gt;Your Value&lt;/h5&gt;
-    &lt;textarea id=&#34;value&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34;&gt;&lt;/textarea&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
-    &lt;button name=&#34;btnGenerate&#34; class=&#34;btn btn-primary&#34;&gt;Format&lt;/button&gt;
-    &lt;button id=&#34;btnClear&#34; class=&#34;btn btn-primary&#34;&gt;Clear&lt;/button&gt;
-&lt;/div&gt;
-&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
-    &lt;h5 class=&#34;h3&#34;&gt;Results &lt;span id=&#34;txtResultHash&#34;&gt;&lt;/span&gt;&lt;/h5&gt;
-    &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
-&lt;/div&gt;
-&lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://toolkit.devkuma.com/content/formatter/xml.js&#34;&gt;&lt;/script&gt;
-      </description>
+      <category>JSON</category>
       
     </item>
     
@@ -97,19 +101,21 @@
 &lt;script src=&#34;https://toolkit.devkuma.com/content/formatter/sql.js&#34;&gt;&lt;/script&gt;
       </description>
       
+      <category>SQL</category>
+      
     </item>
     
     <item>
-      <title>CSS Formatter</title>
-      <link>https://toolkit.devkuma.com/en/formatter/css/</link>
+      <title>XML Formatter</title>
+      <link>https://toolkit.devkuma.com/en/formatter/xml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/en/formatter/css/</guid>
+      <guid>https://toolkit.devkuma.com/en/formatter/xml/</guid>
       <description>
         
         
         &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
-    &lt;h5 clas=&#34;h3&#34;&gt;Your Value&lt;/h5&gt;
+    &lt;h5 class=&#34;h3&#34;&gt;Your Value&lt;/h5&gt;
     &lt;textarea id=&#34;value&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
@@ -117,12 +123,14 @@
     &lt;button id=&#34;btnClear&#34; class=&#34;btn btn-primary&#34;&gt;Clear&lt;/button&gt;
 &lt;/div&gt;
 &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
-    &lt;h5 clas=&#34;h3&#34;&gt;Results &lt;span id=&#34;txtResultHash&#34;&gt;&lt;/span&gt;&lt;/h5&gt;
+    &lt;h5 class=&#34;h3&#34;&gt;Results &lt;span id=&#34;txtResultHash&#34;&gt;&lt;/span&gt;&lt;/h5&gt;
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://toolkit.devkuma.com/content/formatter/css.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/formatter/xml.js&#34;&gt;&lt;/script&gt;
       </description>
+      
+      <category>XML</category>
       
     </item>
     

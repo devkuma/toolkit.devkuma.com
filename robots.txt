@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /en/
+Allow: /ko/
+
+Sitemap: https://toolkit.devkuma.com/sitemap.xml

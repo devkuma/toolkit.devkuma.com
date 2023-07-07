@@ -1,0 +1,88 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Toolkit – SQL</title>
+    <link>https://toolkit.devkuma.com/en/tags/sql/</link>
+    <image>
+      <url>https://toolkit.devkuma.com/en/tags/sql/logo/180x180.jpg</url>
+      <title>SQL</title>
+      <link>https://toolkit.devkuma.com/en/tags/sql/</link>
+    </image>
+    <description>Recent content in SQL on Web Toolkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://toolkit.devkuma.com/en/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>SQL Formatter</title>
+      <link>https://toolkit.devkuma.com/en/formatter/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toolkit.devkuma.com/en/formatter/sql/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;Your Value&lt;/h5&gt;
+    &lt;textarea id=&#34;value&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34;&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;button name=&#34;btnGenerate&#34; class=&#34;btn btn-primary&#34;&gt;Format&lt;/button&gt;
+    &lt;button id=&#34;btnClear&#34; class=&#34;btn btn-primary&#34;&gt;Clear&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;Results &lt;span id=&#34;txtResultHash&#34;&gt;&lt;/span&gt;&lt;/h5&gt;
+    &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/formatter/sql.js&#34;&gt;&lt;/script&gt;
+      </description>
+      
+      <category>SQL</category>
+      
+    </item>
+    
+    <item>
+      <title>SQL Minifier</title>
+      <link>https://toolkit.devkuma.com/en/minifier/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toolkit.devkuma.com/en/minifier/sql/</guid>
+      <description>
+        
+        
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;https://toolkit.devkuma.com/content/minifier/minifier.css&#34; /&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;label for=&#34;css&#34; clas=&#34;h3&#34;&gt;SQL Content&lt;/label&gt;
+    &lt;div id=&#34;editor&#34; style=&#34;width:100%;height:400px;&#34;&gt;select col
+from abc
+where col = 1&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+&lt;input type=&#39;button&#39; id=&#39;format&#39; value=&#39;Minify&#39; class=&#34;btn btn-primary&#34;&gt;
+  &lt;input type=&#34;button&#34; id=&#34;copy&#34; value=&#34;Copy&#34; class=&#34;btn btn-primary&#34;&gt;
+  &lt;input type=&#39;button&#39; id=&#39;clear&#39; value=&#39;Clear&#39; class=&#34;btn btn-primary&#34;&gt;
+&lt;/div&gt;
+&lt;p&gt;This tool compresses SQL (Structured Query Language) documents. It removes indentation, deletes spaces and tabs to make SQL take least amount of space.&lt;/p&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/clipboard@1.7.1/dist/clipboard.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/ace/1.23.2/ace.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/minifier/minifier-ace.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/minifier/minifier.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+const minifier = vkbeautify.sqlmin;
+&lt;/script&gt;
+
+      </description>
+      
+      <category>SQL</category>
+      
+    </item>
+    
+  </channel>
+</rss>

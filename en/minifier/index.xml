@@ -27,7 +27,7 @@
       <description>
         
         
-        &lt;link rel=&#34;stylesheet&#34; href=&#34;https://toolkit.devkuma.com/resources/minifier/all.css&#34; /&gt;
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;https://toolkit.devkuma.com/content/minifier/minifier.css&#34; /&gt;
 &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
     &lt;label for=&#34;css&#34; clas=&#34;h3&#34;&gt;CSS Content&lt;/label&gt;
     &lt;div id=&#34;editor&#34; style=&#34;width:100%;height:400px;&#34;&gt;&lt;/div&gt;
@@ -49,6 +49,8 @@ const minifier = vkbeautify.cssmin;
 
       </description>
       
+      <category>CSS</category>
+      
     </item>
     
     <item>
@@ -60,7 +62,7 @@ const minifier = vkbeautify.cssmin;
       <description>
         
         
-        &lt;link rel=&#34;stylesheet&#34; href=&#34;https://toolkit.devkuma.com/resources/minifier/all.css&#34; /&gt;
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;https://toolkit.devkuma.com/content/minifier/minifier.css&#34; /&gt;
 &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
     &lt;label for=&#34;css&#34; clas=&#34;h3&#34;&gt;JSON Content&lt;/label&gt;
     &lt;div id=&#34;editor&#34; style=&#34;width:100%;height:400px;&#34;&gt;{}&lt;/div&gt;
@@ -82,6 +84,8 @@ const minifier = vkbeautify.jsonmin;
 
       </description>
       
+      <category>JSON</category>
+      
     </item>
     
     <item>
@@ -93,7 +97,7 @@ const minifier = vkbeautify.jsonmin;
       <description>
         
         
-        &lt;link rel=&#34;stylesheet&#34; href=&#34;https://toolkit.devkuma.com/resources/minifier/all.css&#34; /&gt;
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;https://toolkit.devkuma.com/content/minifier/minifier.css&#34; /&gt;
 &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
     &lt;label for=&#34;css&#34; clas=&#34;h3&#34;&gt;SQL Content&lt;/label&gt;
     &lt;div id=&#34;editor&#34; style=&#34;width:100%;height:400px;&#34;&gt;select col
@@ -117,6 +121,8 @@ const minifier = vkbeautify.sqlmin;
 
       </description>
       
+      <category>SQL</category>
+      
     </item>
     
     <item>
@@ -128,7 +134,7 @@ const minifier = vkbeautify.sqlmin;
       <description>
         
         
-        &lt;link rel=&#34;stylesheet&#34; href=&#34;https://toolkit.devkuma.com/resources/minifier/all.css&#34; /&gt;
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;https://toolkit.devkuma.com/content/minifier/minifier.css&#34; /&gt;
 &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
   &lt;label for=&#34;css&#34; clas=&#34;h3&#34;&gt;XML Content&lt;/label&gt;
   &lt;div id=&#34;editor&#34; style=&#34;width:100%;height:400px;&#34;&gt;&amp;lt;book id=&#34;bk01&#34;&amp;gt;
@@ -153,6 +159,8 @@ const minifier = vkbeautify.xmlmin;
 &lt;/script&gt;
 
       </description>
+      
+      <category>XML</category>
       
     </item>
     

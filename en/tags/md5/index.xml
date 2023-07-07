@@ -1,0 +1,53 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Toolkit – MD5</title>
+    <link>https://toolkit.devkuma.com/en/tags/md5/</link>
+    <image>
+      <url>https://toolkit.devkuma.com/en/tags/md5/logo/180x180.jpg</url>
+      <title>MD5</title>
+      <link>https://toolkit.devkuma.com/en/tags/md5/</link>
+    </image>
+    <description>Recent content in MD5 on Web Toolkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://toolkit.devkuma.com/en/tags/md5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>HASH MD5</title>
+      <link>https://toolkit.devkuma.com/en/hash/md5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toolkit.devkuma.com/en/hash/md5/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;Your Value&lt;/h5&gt;
+    &lt;textarea id=&#34;value&#34; class=&#34;form-control&#34;&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;button name=&#34;btnGenerate&#34; class=&#34;btn btn-primary&#34;&gt;MD5&lt;/button&gt;
+    &lt;button id=&#34;btnClear&#34; class=&#34;btn btn-primary&#34;&gt;Clear&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;Results&lt;/h5&gt;
+    &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/blueimp-md5/2.10.0/js/md5.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/hash/md5.js&#34;&gt;&lt;/script&gt;
+      </description>
+      
+      <category>MD5</category>
+      
+      <category>HASH</category>
+      
+    </item>
+    
+  </channel>
+</rss>

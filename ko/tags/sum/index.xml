@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Toolkit – SUM</title>
+    <link>https://toolkit.devkuma.com/ko/tags/sum/</link>
+    <image>
+      <url>https://toolkit.devkuma.com/ko/tags/sum/logo/180x180.jpg</url>
+      <title>SUM</title>
+      <link>https://toolkit.devkuma.com/ko/tags/sum/</link>
+    </image>
+    <description>Recent content in SUM on Web Toolkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://toolkit.devkuma.com/ko/tags/sum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>합산하기</title>
+      <link>https://toolkit.devkuma.com/ko/calculator/sum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toolkit.devkuma.com/ko/calculator/sum/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;입력값&lt;/h5&gt;
+    &lt;textarea id=&#34;value&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; placeholder=&#34;콤마를 구분하여 숫자를 입력하세요. Ex) 100,200,300&#34;&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;button id=&#34;btnCalc&#34; class=&#34;btn btn-primary&#34;&gt;Calculate&lt;/button&gt;
+    &lt;button id=&#34;btnClear&#34; class=&#34;btn btn-primary&#34;&gt;Clear&lt;/button&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;h5 clas=&#34;h3&#34;&gt;결과&lt;/h5&gt;
+    &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/calculator/sum.js&#34;&gt;&lt;/script&gt;
+      </description>
+      
+      <category>SUM</category>
+      
+    </item>
+    
+  </channel>
+</rss>
