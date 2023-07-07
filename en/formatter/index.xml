@@ -40,7 +40,7 @@
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/json2/20160511/json2.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://toolkit.devkuma.com/resources/js/formatter/json.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/formatter/json.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>
@@ -67,7 +67,7 @@
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://toolkit.devkuma.com/resources/js/formatter/xml.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/formatter/xml.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>
@@ -94,7 +94,7 @@
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://toolkit.devkuma.com/resources/js/formatter/sql.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/formatter/sql.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>
@@ -121,7 +121,7 @@
     &lt;textarea id=&#34;results&#34; class=&#34;form-control&#34; style=&#34;min-height: 200px;&#34; readonly=&#34;readonly&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://toolkit.devkuma.com/resources/js/formatter/css.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/formatter/css.js&#34;&gt;&lt;/script&gt;
       </description>
       
     </item>

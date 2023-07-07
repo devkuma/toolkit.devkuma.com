@@ -41,7 +41,7 @@
 &lt;/div&gt;
 &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/x2js/1.2.0/xml2json.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.rawgit.com/vkiryukhin/vkBeautify/master/vkbeautify.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://toolkit.devkuma.com/resources/js/converter/xml2json.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/converter/xml2json.js&#34;&gt;&lt;/script&gt;
       </description>
       
       <category>Converters</category>

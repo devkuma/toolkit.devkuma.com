@@ -39,13 +39,13 @@
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/en/converter/json2xml/</loc>
+    <loc>https://toolkit.devkuma.com/en/hash/md5/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/en/hash/md5/</loc>
+    <loc>https://toolkit.devkuma.com/en/converter/json2xml/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -76,6 +76,30 @@
   
   <url>
     <loc>https://toolkit.devkuma.com/en/calculator/basic/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://toolkit.devkuma.com/en/minifier/css/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://toolkit.devkuma.com/en/minifier/json/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://toolkit.devkuma.com/en/minifier/sql/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://toolkit.devkuma.com/en/minifier/xml/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
