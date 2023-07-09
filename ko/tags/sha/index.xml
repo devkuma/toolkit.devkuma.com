@@ -9,6 +9,7 @@
     </image>
     <description>Recent content in SHA on Web Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
     
 	  <atom:link href="https://toolkit.devkuma.com/ko/tags/sha/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,7 +28,9 @@
       <description>
         
         
-        &lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+        &lt;p&gt;SHA(Secure Hash Algorithm, 안전한 해시 알고리즘) 함수들은 서로 관련된 암호학적 해시 함수들의 모음이다.
+SHA는 MD5를 수정한 버전이고, 데이터 및 인증서를 해시하는 데 사용한다.&lt;/p&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
     &lt;h5 clas=&#34;h3&#34;&gt;입력값&lt;/h5&gt;
     &lt;textarea id=&#34;value&#34; class=&#34;form-control&#34;&gt;&lt;/textarea&gt;
 &lt;/div&gt;

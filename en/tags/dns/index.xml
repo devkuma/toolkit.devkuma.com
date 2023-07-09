@@ -1,0 +1,51 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Toolkit – DNS</title>
+    <link>https://toolkit.devkuma.com/en/tags/dns/</link>
+    <image>
+      <url>https://toolkit.devkuma.com/en/tags/dns/logo/180x180.jpg</url>
+      <title>DNS</title>
+      <link>https://toolkit.devkuma.com/en/tags/dns/</link>
+    </image>
+    <description>Recent content in DNS on Web Toolkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="https://toolkit.devkuma.com/en/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>DNS analyzer - check subdomains and NS, etc.</title>
+      <link>https://toolkit.devkuma.com/en/dns-analyzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toolkit.devkuma.com/en/dns-analyzer/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;httpswwwwhatsmydnsnet&#34;&gt;&lt;a href=&#34;https://www.whatsmydns.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.whatsmydns.net/&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This site shows you how far your DNS is propagating.
+When you switch DNS or change DNS settings, you can investigate how far it has propagated.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://toolkit.devkuma.com/content/web/whatsmydns.png&#34; alt=&#34;whatsmydns&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;httpsdnsdumpstercom&#34;&gt;&lt;a href=&#34;https://dnsdumpster.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dnsdumpster.com/&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Analyzes domains to extract information such as subdomains. You can use this site to check the subdomain information provided by your DNS server.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://toolkit.devkuma.com/content/web/dnsdumpster-1.png&#34; alt=&#34;dnsdumpster&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://toolkit.devkuma.com/content/web/dnsdumpster-2.png&#34; alt=&#34;dnsdumpster&#34;&gt;&lt;/p&gt;
+
+      </description>
+      
+      <category>WEB</category>
+      
+      <category>DNS</category>
+      
+    </item>
+    
+  </channel>
+</rss>
