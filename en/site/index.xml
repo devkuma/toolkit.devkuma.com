@@ -1,17 +1,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Toolkit – Web</title>
-    <link>https://toolkit.devkuma.com/en/web/</link>
+    <title>Web Toolkit – Site</title>
+    <link>https://toolkit.devkuma.com/en/site/</link>
     <image>
-      <url>https://toolkit.devkuma.com/en/web/logo/180x180.jpg</url>
-      <title>Web</title>
-      <link>https://toolkit.devkuma.com/en/web/</link>
+      <url>https://toolkit.devkuma.com/en/site/logo/180x180.jpg</url>
+      <title>Site</title>
+      <link>https://toolkit.devkuma.com/en/site/</link>
     </image>
-    <description>Recent content in Web on Web Toolkit</description>
+    <description>Recent content in Site on Web Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     
-	  <atom:link href="https://toolkit.devkuma.com/en/web/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://toolkit.devkuma.com/en/site/index.xml" rel="self" type="application/rss+xml" />
     
     
       
