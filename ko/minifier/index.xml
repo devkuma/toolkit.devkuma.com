@@ -19,11 +19,11 @@
     
     
     <item>
-      <title>CSS 코드 경량화</title>
-      <link>https://toolkit.devkuma.com/ko/minifier/css/</link>
+      <title>CSS 코드 경량화(Minify)</title>
+      <link>https://toolkit.devkuma.com/ko/css-minifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/minifier/css/</guid>
+      <guid>https://toolkit.devkuma.com/ko/css-minifier/</guid>
       <description>
         
         
@@ -54,11 +54,11 @@ const minifier = vkbeautify.cssmin;
     </item>
     
     <item>
-      <title>JSON 코드 경량화</title>
-      <link>https://toolkit.devkuma.com/ko/minifier/json/</link>
+      <title>JSON 코드 경량화(Minify)</title>
+      <link>https://toolkit.devkuma.com/ko/json-minifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/minifier/json/</guid>
+      <guid>https://toolkit.devkuma.com/ko/json-minifier/</guid>
       <description>
         
         
@@ -89,11 +89,11 @@ const minifier = vkbeautify.jsonmin;
     </item>
     
     <item>
-      <title>SQL 코드 경량화</title>
-      <link>https://toolkit.devkuma.com/ko/minifier/sql/</link>
+      <title>SQL 코드 경량화(Minify)</title>
+      <link>https://toolkit.devkuma.com/ko/sql-minifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/minifier/sql/</guid>
+      <guid>https://toolkit.devkuma.com/ko/sql-minifier/</guid>
       <description>
         
         
@@ -127,10 +127,10 @@ const minifier = vkbeautify.sqlmin;
     
     <item>
       <title>XML 코드 경량화(Minify)</title>
-      <link>https://toolkit.devkuma.com/ko/minifier/xml/</link>
+      <link>https://toolkit.devkuma.com/ko/xml-minifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/minifier/xml/</guid>
+      <guid>https://toolkit.devkuma.com/ko/xml-minifier/</guid>
       <description>
         
         

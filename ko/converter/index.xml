@@ -20,10 +20,10 @@
     
     <item>
       <title>XML을 JSON으로 변환하기</title>
-      <link>https://toolkit.devkuma.com/ko/converter/xml2json/</link>
+      <link>https://toolkit.devkuma.com/ko/xml-to-json-converter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/converter/xml2json/</guid>
+      <guid>https://toolkit.devkuma.com/ko/xml-to-json-converter/</guid>
       <description>
         
         
@@ -51,11 +51,11 @@
     </item>
     
     <item>
-      <title>JSON을 XML으로  변환하기</title>
-      <link>https://toolkit.devkuma.com/ko/converter/json2xml/</link>
+      <title>JSON을 XML으로 변환하기</title>
+      <link>https://toolkit.devkuma.com/ko/json-to-xml-converter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/converter/json2xml/</guid>
+      <guid>https://toolkit.devkuma.com/ko/json-to-xml-converter/</guid>
       <description>
         
         
@@ -83,11 +83,11 @@
     </item>
     
     <item>
-      <title>Less을 CSS으로  변환하기</title>
-      <link>https://toolkit.devkuma.com/ko/converter/less2css/</link>
+      <title>Less을 CSS으로 변환하기</title>
+      <link>https://toolkit.devkuma.com/ko/less-to-css-converter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/converter/less2css/</guid>
+      <guid>https://toolkit.devkuma.com/ko/less-to-css-converter/</guid>
       <description>
         
         

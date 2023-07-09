@@ -20,10 +20,10 @@
     
     <item>
       <title>SQL 자동 정렬 변환기</title>
-      <link>https://toolkit.devkuma.com/ko/formatter/sql/</link>
+      <link>https://toolkit.devkuma.com/ko/sql-formatter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/formatter/sql/</guid>
+      <guid>https://toolkit.devkuma.com/ko/sql-formatter/</guid>
       <description>
         
         
@@ -48,11 +48,11 @@
     </item>
     
     <item>
-      <title>SQL 코드 경량화</title>
-      <link>https://toolkit.devkuma.com/ko/minifier/sql/</link>
+      <title>SQL 코드 경량화(Minify)</title>
+      <link>https://toolkit.devkuma.com/ko/sql-minifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/minifier/sql/</guid>
+      <guid>https://toolkit.devkuma.com/ko/sql-minifier/</guid>
       <description>
         
         

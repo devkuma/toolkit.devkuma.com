@@ -3,103 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/converter/xml2json/</loc>
+    <loc>https://toolkit.devkuma.com/ko/xml-to-json-converter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/formatter/css/</loc>
+    <loc>https://toolkit.devkuma.com/ko/css-formatter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/minifier/css/</loc>
+    <loc>https://toolkit.devkuma.com/ko/css-minifier/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/formatter/json/</loc>
+    <loc>https://toolkit.devkuma.com/ko/json-formatter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/minifier/json/</loc>
+    <loc>https://toolkit.devkuma.com/ko/json-minifier/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/converter/json2xml/</loc>
+    <loc>https://toolkit.devkuma.com/ko/json-to-xml-converter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/converter/less2css/</loc>
+    <loc>https://toolkit.devkuma.com/ko/less-to-css-converter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/hash/md5/</loc>
+    <loc>https://toolkit.devkuma.com/ko/hash-md5/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/hash/sha/</loc>
+    <loc>https://toolkit.devkuma.com/ko/hash-sha/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/formatter/sql/</loc>
+    <loc>https://toolkit.devkuma.com/ko/sql-formatter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/minifier/sql/</loc>
+    <loc>https://toolkit.devkuma.com/ko/sql-minifier/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/url/coder/</loc>
+    <loc>https://toolkit.devkuma.com/ko/url-encoder-decoder/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/formatter/xml/</loc>
+    <loc>https://toolkit.devkuma.com/ko/xml-formatter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/minifier/xml/</loc>
+    <loc>https://toolkit.devkuma.com/ko/xml-minifier/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/calculator/basic/</loc>
+    <loc>https://toolkit.devkuma.com/ko/basic-calculator/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/calculator/average/</loc>
+    <loc>https://toolkit.devkuma.com/ko/average-calculator/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://toolkit.devkuma.com/ko/calculator/sum/</loc>
+    <loc>https://toolkit.devkuma.com/ko/sum-calculator/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

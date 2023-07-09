@@ -20,10 +20,10 @@
     
     <item>
       <title>XML을 JSON으로 변환하기</title>
-      <link>https://toolkit.devkuma.com/ko/converter/xml2json/</link>
+      <link>https://toolkit.devkuma.com/ko/xml-to-json-converter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/converter/xml2json/</guid>
+      <guid>https://toolkit.devkuma.com/ko/xml-to-json-converter/</guid>
       <description>
         
         
@@ -51,11 +51,11 @@
     </item>
     
     <item>
-      <title>JSON을 XML으로  변환하기</title>
-      <link>https://toolkit.devkuma.com/ko/converter/json2xml/</link>
+      <title>JSON을 XML으로 변환하기</title>
+      <link>https://toolkit.devkuma.com/ko/json-to-xml-converter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/converter/json2xml/</guid>
+      <guid>https://toolkit.devkuma.com/ko/json-to-xml-converter/</guid>
       <description>
         
         
@@ -84,10 +84,10 @@
     
     <item>
       <title>XML 자동 정렬 변환기</title>
-      <link>https://toolkit.devkuma.com/ko/formatter/xml/</link>
+      <link>https://toolkit.devkuma.com/ko/xml-formatter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/formatter/xml/</guid>
+      <guid>https://toolkit.devkuma.com/ko/xml-formatter/</guid>
       <description>
         
         
@@ -113,10 +113,10 @@
     
     <item>
       <title>XML 코드 경량화(Minify)</title>
-      <link>https://toolkit.devkuma.com/ko/minifier/xml/</link>
+      <link>https://toolkit.devkuma.com/ko/xml-minifier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://toolkit.devkuma.com/ko/minifier/xml/</guid>
+      <guid>https://toolkit.devkuma.com/ko/xml-minifier/</guid>
       <description>
         
         
