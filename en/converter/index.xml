@@ -143,6 +143,54 @@
     </item>
     
     <item>
+      <title>Epoch Converter</title>
+      <link>https://toolkit.devkuma.com/en/epoch-converter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toolkit.devkuma.com/en/epoch-converter/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Epoch Time and Unix Time are just different names for the same thing. Also known as POSIX Time.&lt;/p&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;label for=&#34;value&#34;&gt;Unix epoch time&lt;/label&gt;
+    &lt;div class=&#34;form-row align-items-center&#34;&gt;
+      &lt;div class=&#34;col-auto&#34;&gt;      
+        &lt;input id=&#34;value&#34; class=&#34;form-control&#34;&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-auto&#34;&gt;
+        &lt;button id=&#34;btnGenerate&#34; class=&#34;btn btn-primary&#34;&gt;Timestamp to Human date&lt;/button&gt;
+        &lt;button id=&#34;btnClear&#34; class=&#34;btn btn-primary ml-1&#34;&gt;Clear&lt;/button&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34; style=&#34;display:none;&#34; id=&#34;resultBox&#34;&gt;
+    &lt;label for=&#34;results&#34;&gt;Result&lt;/label&gt;
+    &lt;div class=&#34;form-control&#34;style=&#34;height: 70px;&#34;&gt;
+      &lt;div&gt;&lt;b&gt;GMT: &lt;/b&gt;&lt;span id=&#34;resultGmt&#34;&gt;&lt;span&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;Your time zone: &lt;/b&gt;&lt;span id=&#34;resultNow&#34;&gt;&lt;span&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/converter/epoch-converter.js&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;gmt&#34;&gt;GMT&lt;/h2&gt;
+&lt;p&gt;Greenwich Mean Time (GMT), Greenwich Mean Time is a coordinated world time zone centered in London and ending in Wellington.&lt;/p&gt;
+&lt;h2 id=&#34;epoch&#34;&gt;Epoch&lt;/h2&gt;
+&lt;p&gt;Epoch refers to an era of significant events or changes, and is used by systems such as Unix and POSIX to represent the passage of date and time.
+(00:00:00 UTC on January 1, 1970). That is, 0:00 on January 1, 1970.&lt;/p&gt;
+&lt;h2 id=&#34;timestamp&#34;&gt;Timestamp&lt;/h2&gt;
+&lt;p&gt;Timestamp is said to have originated from the rubber stamps used in the West to indicate the time of sending or receiving mail and other documents. It has a date in the center and a triangle at the top that points to a specific time around a circle representing a 24-hour period.&lt;br&gt;
+This stamp was stamped on a piece of paper to mark a specific time, and in the current IT system, it represents the time that has passed based on an epoch.&lt;/p&gt;
+&lt;img alt=&#34;Timestamp&#34; src=&#34;https://toolkit.devkuma.com/content/converter/Timestamp.png&#34; style=&#34;width:30%&#34;&gt;
+&lt;p&gt;from &lt;a href=&#34;https://de.m.wikipedia.org/wiki/Datei:Timestamp.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+      
+      <category>Time</category>
+      
+    </item>
+    
+    <item>
       <title>HASH - SHA</title>
       <link>https://toolkit.devkuma.com/en/hash-sha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

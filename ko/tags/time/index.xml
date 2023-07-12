@@ -1,0 +1,70 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Toolkit – Time</title>
+    <link>https://toolkit.devkuma.com/ko/tags/time/</link>
+    <image>
+      <url>https://toolkit.devkuma.com/ko/tags/time/logo/180x180.jpg</url>
+      <title>Time</title>
+      <link>https://toolkit.devkuma.com/ko/tags/time/</link>
+    </image>
+    <description>Recent content in Time on Web Toolkit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://toolkit.devkuma.com/ko/tags/time/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Epoch, Unix 시간 변환 도구</title>
+      <link>https://toolkit.devkuma.com/ko/epoch-converter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toolkit.devkuma.com/ko/epoch-converter/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Epoch Time, Unix Time은 부르는 이름만 다를 뿐 같은 것을 의미한다. POSIX Time 이라고도 한다.&lt;/p&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34;&gt;
+    &lt;label for=&#34;value&#34;&gt;Unix epoch 시간&lt;/label&gt;
+    &lt;div class=&#34;form-row align-items-center&#34;&gt;
+      &lt;div class=&#34;col-auto&#34;&gt;      
+        &lt;input id=&#34;value&#34; class=&#34;form-control&#34;&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-auto&#34;&gt;
+        &lt;button id=&#34;btnGenerate&#34; class=&#34;btn btn-primary&#34;&gt;Timestamp to Human date&lt;/button&gt;
+        &lt;button id=&#34;btnClear&#34; class=&#34;btn btn-primary ml-1&#34;&gt;Clear&lt;/button&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mb-3 col-sm-12&#34; style=&#34;display:none;&#34; id=&#34;resultBox&#34;&gt;
+    &lt;label for=&#34;results&#34;&gt;결과&lt;/label&gt;
+    &lt;div class=&#34;form-control&#34;style=&#34;height: 70px;&#34;&gt;
+      &lt;div&gt;&lt;b&gt;GMT: &lt;/b&gt;&lt;span id=&#34;resultGmt&#34;&gt;&lt;span&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;b&gt;현재 time zone: &lt;/b&gt;&lt;span id=&#34;resultNow&#34;&gt;&lt;span&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://toolkit.devkuma.com/content/converter/epoch-converter.js&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;gmt&#34;&gt;GMT&lt;/h2&gt;
+&lt;p&gt;GMT(Greenwich Mean Time), 그리니치 표준시는 런던을 기점으로 하고, 웰링턴에 종점으로 설정되는 협정 세계시의 기준시간대이다.&lt;/p&gt;
+&lt;h2 id=&#34;epoch&#34;&gt;Epoch&lt;/h2&gt;
+&lt;p&gt;Epoch는 중요한 사건이나 변화가 있었던 시대(era)를 의미하는데, Unix와 POSIX 등의 시스템에서 날짜와 시간의 흐름을 나타낼 때 기준을 삼는 시간
+(00:00:00 UTC on January 1, 1970)을 나타내는 단어이다. 바로 1970년 1월 1일 0시입니다.&lt;/p&gt;
+&lt;h2 id=&#34;timestamp&#34;&gt;Timestamp&lt;/h2&gt;
+&lt;p&gt;Timestamp는 예전 서양에서 우편물 등의 서류를 보내거나 받은 시간을 나타낼 때 쓰던 고무도장에서 유래되었다고 한다. 가운데 날짜가 있고, 24시간을 표현한 원 주위의 특정 시간을 상단의 삼각형이 가리키는 방식이다.&lt;br&gt;
+이 도장을 종이에 찍어 특정 시간을 표기하였던 것이 현재 IT 시스템에서는 epoch을 기준으로 흐른 시간을 나타내고 있다.&lt;/p&gt;
+&lt;img alt=&#34;Timestamp&#34; src=&#34;https://toolkit.devkuma.com/content/converter/Timestamp.png&#34; style=&#34;width:30%&#34;&gt;
+&lt;p&gt;from &lt;a href=&#34;https://de.m.wikipedia.org/wiki/Datei:Timestamp.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt;
+&lt;/p&gt;
+
+      </description>
+      
+      <category>Time</category>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -6,9 +6,9 @@
   <link rel="icon" href="/favicon.svg">
 
   <title>
-  SQL - Web Toolkit
+  Epoch Converter - Web Toolkit
   </title>
-  <meta name="description" content="" /><meta name="generator" content="Hugo 0.111.3">
+  <meta name="description" content="Epoch &amp; Unix Timestamp Conversion Tools" /><meta name="generator" content="Hugo 0.111.3">
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -20,18 +20,22 @@
   
   
 
-  <link rel="alternate" type="application/rss+xml" href="https://toolkit.devkuma.com/en/tags/sql/index.xml" title="Web Toolkit" />
-  <meta property="og:title" content="SQL" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://toolkit.devkuma.com/en/tags/sql/" />
+  <meta property="og:title" content="Epoch Converter" />
+<meta property="og:description" content="Epoch &amp; Unix Timestamp Conversion Tools" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://toolkit.devkuma.com/en/epoch-converter/" /><meta property="article:section" content="converter" />
+
+
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="SQL"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content="Epoch Converter"/>
+<meta name="twitter:description" content="Epoch &amp; Unix Timestamp Conversion Tools"/>
 
-  <meta itemprop="name" content="SQL">
-<meta itemprop="description" content="">
+  <meta itemprop="name" content="Epoch Converter">
+<meta itemprop="description" content="Epoch &amp; Unix Timestamp Conversion Tools">
+
+<meta itemprop="wordCount" content="180">
+<meta itemprop="keywords" content="Time," />
 
   
   <meta name="lang" content="en" />
@@ -107,36 +111,84 @@
   </ul>
 </header>
 <main class="flex-1">
-
-  <h1 class="container px-6 pt-6 mx-auto text-3xl font-bold">SQL</h1>
-
   
   
-  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
-    <div class="p-2">
-<a href="https://toolkit.devkuma.com/en/sql-minifier/">
-  
-  <div class="my-2 text-xl font-semibold">SQL Minifier</div>
-  <div>Quickly minify SQL to save space and optimize your speed</div>
-</a>
 
-  <div style="font-style: italic;font-size: smaller;">Other languages: <a href="https://toolkit.devkuma.com/ko/sql-minifier/" lang="ko">Korean</a>
+  
+
+  <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
+
+    <h1 class="text-2xl font-bold mb-2">Epoch Converter</h1>
+    
+
+    <div class="lead">Epoch &amp; Unix Timestamp Conversion Tools</div>
+
+    
+
+    <p>Epoch Time and Unix Time are just different names for the same thing. Also known as POSIX Time.</p>
+<div class="mb-3 col-sm-12">
+    <label for="value">Unix epoch time</label>
+    <div class="form-row align-items-center">
+      <div class="col-auto">      
+        <input id="value" class="form-control">
+      </div>
+      <div class="col-auto">
+        <button id="btnGenerate" class="btn btn-primary">Timestamp to Human date</button>
+        <button id="btnClear" class="btn btn-primary ml-1">Clear</button>
+      </div>
     </div>
-
 </div>
-<div class="p-2">
-<a href="https://toolkit.devkuma.com/en/sql-formatter/">
-  
-  <div class="my-2 text-xl font-semibold">SQL Formatter</div>
-  <div>Structured Query Language</div>
-</a>
-
-  <div style="font-style: italic;font-size: smaller;">Other languages: <a href="https://toolkit.devkuma.com/ko/sql-formatter/" lang="ko">Korean</a>
+<div class="mb-3 col-sm-12" style="display:none;" id="resultBox">
+    <label for="results">Result</label>
+    <div class="form-control"style="height: 70px;">
+      <div><b>GMT: </b><span id="resultGmt"><span></div>
+      <div><b>Your time zone: </b><span id="resultNow"><span></div>
     </div>
-
 </div>
+<script src="/content/converter/epoch-converter.js"></script>
+<h2 id="gmt">GMT</h2>
+<p>Greenwich Mean Time (GMT), Greenwich Mean Time is a coordinated world time zone centered in London and ending in Wellington.</p>
+<h2 id="epoch">Epoch</h2>
+<p>Epoch refers to an era of significant events or changes, and is used by systems such as Unix and POSIX to represent the passage of date and time.
+(00:00:00 UTC on January 1, 1970). That is, 0:00 on January 1, 1970.</p>
+<h2 id="timestamp">Timestamp</h2>
+<p>Timestamp is said to have originated from the rubber stamps used in the West to indicate the time of sending or receiving mail and other documents. It has a date in the center and a triangle at the top that points to a specific time around a circle representing a 24-hour period.<br>
+This stamp was stamped on a piece of paper to mark a specific time, and in the current IT system, it represents the time that has passed based on an epoch.</p>
+<img alt="Timestamp" src="/content/converter/Timestamp.png" style="width:30%">
+<p>from <a href="https://de.m.wikipedia.org/wiki/Datei:Timestamp.png" target="_blank" rel="noopener">Wikipedia</a>
+</p>
 
-  </div><div class="grid place-items-center mb-8">
+  </article><div style="text-align: center;">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8543127460401091"
+     crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8543127460401091"
+     data-ad-slot="3689386360"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="px-2 mb-2">
+  
+  <script src="https://giscus.app/client.js"
+    data-repo=""
+    data-repo-id=""
+    data-category=""
+    data-category-id=""
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="bottom"
+    data-theme="preferred_color_scheme"
+    data-lang="en"
+    crossorigin="anonymous"
+    async>
+  </script>
   
 </div>
 <div class="bg-blue-100 dark:bg-gray-900">
