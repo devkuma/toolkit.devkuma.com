@@ -9,6 +9,7 @@
     </image>
     <description>Recent content in Converters on Web Toolkit</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
     
 	  <atom:link href="https://toolkit.devkuma.com/ko/converter/index.xml" rel="self" type="application/rss+xml" />
     
@@ -53,7 +54,7 @@
     <item>
       <title>Epoch, Unix 시간 변환 도구</title>
       <link>https://toolkit.devkuma.com/ko/epoch-converter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jul 2023 01:29:00 +0900</pubDate>
       
       <guid>https://toolkit.devkuma.com/ko/epoch-converter/</guid>
       <description>
